@@ -1,4 +1,4 @@
-name: pytorch
+name: videopose_env
 channels:
   - pytorch
   - defaults
